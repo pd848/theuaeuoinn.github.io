@@ -1,0 +1,39 @@
+@charset "utf-8";
+h1 {
+	color: #FFFFFF;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	font-style: italic;
+	text-decoration: underline;
+	border-style: ridge;
+	border-color: #EF0303;
+	background-color: #34E718;
+	text-align: center;
+}
+h2 {
+	color: #FFFFFF;
+	border-right-style: groove;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	background-color: #625F5F;
+	text-decoration: underline;
+}
+.divID {
+	color: #FB0000;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	text-decoration: underline;
+}
+.articlecss {
+	color: #04DD08;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	text-decoration: underline;
+}
+.uae2 {
+}
+.section {
+	color: #0C1FF1;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
+.aside {
+	color: #000000;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	text-decoration: underline;
+}
